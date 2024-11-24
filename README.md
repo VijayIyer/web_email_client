@@ -1,5 +1,5 @@
 ## Web mail client implemented with Angular
-- This project implements a web mail client using Angular UI Framework, to send and recieve emails.
+- This project implements a web mail client using Angular UI Framework, to send and recieve emails. Working link at - https://angularwebmailclient.netlify.app/
 - It is created by following along the following [Udemy course](https://www.udemy.com/share/102zPc3@UJQf10EV-1bwIF3-KNfxrJSIteSoWdjAfWHTagysBsjtTRDQ_IK4sa2flsT1f4If/)
 - The email server was provided by the course instructor, to create email accounts with user names ending in `@angular-email.com`
 - It demonstrates important features in any enterprise application - Authentication (Sign Up, Sign In, Redirecting user back to sign in when not authenticated, Displaying email content as well as API integration to send and recieve emails)
